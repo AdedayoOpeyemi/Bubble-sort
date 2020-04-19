@@ -1,5 +1,4 @@
 def bubble_sort(arr)
-
   n = 1
   (0..arr.length - n).each do
     (0...arr.length - 1).each do |j|
