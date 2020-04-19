@@ -1,9 +1,9 @@
 def bubble_sort(arr)
   n = 1
-  (0..arr.length - n).each do |i|
-  j = 0
+  (0..arr.length - n).each do
+    j = 0
     (0...arr.length - 1).each do |j|
-      arr[j], arr[j+1] = arr[j+1], arr[j] if arr[j] > arr[j+1]    
+      arr[j], arr[j + 1] = arr[j + 1], arr[j] if arr[j] > arr[j + 1]    
     end
     n += 1
   end
