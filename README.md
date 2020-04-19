@@ -1,57 +1,47 @@
-# Project Name
+# Bubble sort with Ruby
 
-> One paragraph statement about the project.
+> This project is to implement the Bubble sort algorithm without using the inbuld sort method of Ruby. The project is focused on the use of yield and passing a block to a method.
 
-![screenshot](./app_screenshot.png)
-
-Additional description about the project and its features.
 
 ## Built With
 
-- Major languages,
-- frameworks,
-- technologies used
-
-## Live Demo
-
-[Live Demo Link](https://livedemo.com)
-
-
-## Getting Started
-
-**This is an example of how you may give instructions on setting up your project locally.**
-**Modify this file to match your project, remove sections that don't apply. For example: delete the testing section if the currect project doesn't require testing.**
+- Ruby
 
 
 To get a local copy up and running follow these simple example steps.
 
 ### Prerequisites
 
+
+
 ### Setup
 
 ### Install
+Have Ruby installed in your local environment
 
 ### Usage
-
-### Run tests
+run 'ruby bubble_sort'
+ 
 
 ### Deployment
+
+run 'git clone git@github.com:AdedayoOpeyemi/Bubble-sort.git'
 
 
 
 ## Authors
 
-👤 **Author1**
+👤 **Angel Mora**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@moma](https://github.com/angel-mora)
+- Twitter: [@angelmoma_](https://twitter.com/angelmoma_)
+- Linkedin: [linkedin](https://www.linkedin.com/in/angelmoma/)
 
-👤 **Author2**
+👤 **Opeyemi Oyelesi**
 
-- Github: [@githubhandle](https://github.com/githubhandle)
-- Twitter: [@twitterhandle](https://twitter.com/twitterhandle)
-- Linkedin: [linkedin](https://linkedin.com/linkedinhandle)
+- Github: [@githubhandle](https://github.com/Adedayoopeyemi)
+- Twitter: [@twitterhandle](https://twitter.com/oyelesiopy)
+- Linkedin: [linkedin](https://linkedin.com/opeyemioyelesi)
 
 ## 🤝 Contributing
 
