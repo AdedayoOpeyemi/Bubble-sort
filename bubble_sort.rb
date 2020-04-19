@@ -1,16 +1,13 @@
 def bubble_sort(arr)
   n = 1
   (0..arr.length - n).each do
-    j = 0
     (0...arr.length - 1).each do |j|
-      arr[j], arr[j + 1] = arr[j + 1], arr[j] if arr[j] > arr[j + 1]   
+      arr[j], arr[j + 1] = arr[j + 1], arr[j] if arr[j] > arr[j + 1]
     end
     n += 1
   end
   arr
 end
-
-print bubble_sort([6,3,8,3,7,2,1])
 
 def bubble_sort_by(arr)
   arr_len = arr.length
